@@ -1,0 +1,17 @@
+Belajar PHP 
+1. Kebutuhan yang harus ada 
+   - server = apache, Ngix, Litespeed 
+   - editor = notepad, sublime text, visual studio code
+   - browser = Mozilla firefox, google corme
+   kebutuhan server dan php dapat menggunakan bundel aplikasi seperti xampp, wapserver, laragos.
+
+2. mulai belajar
+   - pastikan bahwa service apache sudah jalan di xampp.
+   - buat folder di dalam htdoc (apabila menggunkakan xampp) dengan nama belajarphp dan didalamnya buat folder pertemuan1
+   - buat file baru didalam folder pertemuan1 dengan nama index.php
+   - isi file index.php dengan kode berikut :
+      <?php 
+      		echo "Selamat Belajar PHP";
+      ?> 
+   - buka browser dan ketik di url localhost/belajarphp/pertemuan1/
+
